@@ -1,0 +1,32 @@
+F:\Projet du 19 octobre 2017\Système_Inventaire_Librairie\Système_Inventaire_Librairie\bin\Debug\Système_Inventaire_Librairie.exe.config
+F:\Projet du 19 octobre 2017\Système_Inventaire_Librairie\Système_Inventaire_Librairie\bin\Debug\Système_Inventaire_Librairie.exe
+F:\Projet du 19 octobre 2017\Système_Inventaire_Librairie\Système_Inventaire_Librairie\bin\Debug\Système_Inventaire_Librairie.pdb
+F:\Projet du 19 octobre 2017\Système_Inventaire_Librairie\Système_Inventaire_Librairie\bin\Debug\SIL.dll
+F:\Projet du 19 octobre 2017\Système_Inventaire_Librairie\Système_Inventaire_Librairie\bin\Debug\SIL.pdb
+F:\Projet du 19 octobre 2017\Système_Inventaire_Librairie\Système_Inventaire_Librairie\obj\Debug\Système_Inventaire_Librairie.csprojResolveAssemblyReference.cache
+F:\Projet du 19 octobre 2017\Système_Inventaire_Librairie\Système_Inventaire_Librairie\obj\Debug\Système_Inventaire_Librairie.exe
+F:\Projet du 19 octobre 2017\Système_Inventaire_Librairie\Système_Inventaire_Librairie\obj\Debug\Système_Inventaire_Librairie.pdb
+H:\Projet du 19 octobre 2017\Système_Inventaire_Librairie\Système_Inventaire_Librairie\bin\Debug\Système_Inventaire_Librairie.exe.config
+H:\Projet du 19 octobre 2017\Système_Inventaire_Librairie\Système_Inventaire_Librairie\obj\Debug\Système_Inventaire_Librairie.exe
+H:\Projet du 19 octobre 2017\Système_Inventaire_Librairie\Système_Inventaire_Librairie\obj\Debug\Système_Inventaire_Librairie.pdb
+H:\Projet du 19 octobre 2017\Système_Inventaire_Librairie\Système_Inventaire_Librairie\bin\Debug\Système_Inventaire_Librairie.exe
+H:\Projet du 19 octobre 2017\Système_Inventaire_Librairie\Système_Inventaire_Librairie\bin\Debug\Système_Inventaire_Librairie.pdb
+H:\Projet du 19 octobre 2017\Système_Inventaire_Librairie\Système_Inventaire_Librairie\bin\Debug\SIL.dll
+H:\Projet du 19 octobre 2017\Système_Inventaire_Librairie\Système_Inventaire_Librairie\bin\Debug\SIL.pdb
+H:\Projet du 19 octobre 2017\Système_Inventaire_Librairie\Système_Inventaire_Librairie\obj\Debug\Système_Inventaire_Librairie.csprojResolveAssemblyReference.cache
+D:\Projet du 19 octobre 2017\Système_Inventaire_Librairie\Système_Inventaire_Librairie\bin\Debug\Système_Inventaire_Librairie.exe.config
+D:\Projet du 19 octobre 2017\Système_Inventaire_Librairie\Système_Inventaire_Librairie\obj\Debug\Système_Inventaire_Librairie.exe
+D:\Projet du 19 octobre 2017\Système_Inventaire_Librairie\Système_Inventaire_Librairie\obj\Debug\Système_Inventaire_Librairie.pdb
+I:\Ma clé USB\Mes projets\Projet du 19 octobre 2017\Système_Inventaire_Librairie\Système_Inventaire_Librairie\bin\Debug\Système_Inventaire_Librairie.exe.config
+I:\Ma clé USB\Mes projets\Projet du 19 octobre 2017\Système_Inventaire_Librairie\Système_Inventaire_Librairie\obj\Debug\Système_Inventaire_Librairie.exe
+I:\Ma clé USB\Mes projets\Projet du 19 octobre 2017\Système_Inventaire_Librairie\Système_Inventaire_Librairie\obj\Debug\Système_Inventaire_Librairie.pdb
+F:\Contenus principal\clé nejw\Ma clé USB\Mes projets\Projet du 19 octobre 2017\Système_Inventaire_Librairie\Système_Inventaire_Librairie\bin\Debug\Système_Inventaire_Librairie.exe.config
+F:\Contenus principal\clé nejw\Ma clé USB\Mes projets\Projet du 19 octobre 2017\Système_Inventaire_Librairie\Système_Inventaire_Librairie\bin\Debug\Système_Inventaire_Librairie.exe
+F:\Contenus principal\clé nejw\Ma clé USB\Mes projets\Projet du 19 octobre 2017\Système_Inventaire_Librairie\Système_Inventaire_Librairie\bin\Debug\Système_Inventaire_Librairie.pdb
+F:\Contenus principal\clé nejw\Ma clé USB\Mes projets\Projet du 19 octobre 2017\Système_Inventaire_Librairie\Système_Inventaire_Librairie\bin\Debug\SIL.dll
+F:\Contenus principal\clé nejw\Ma clé USB\Mes projets\Projet du 19 octobre 2017\Système_Inventaire_Librairie\Système_Inventaire_Librairie\bin\Debug\SIL.pdb
+F:\Contenus principal\clé nejw\Ma clé USB\Mes projets\Projet du 19 octobre 2017\Système_Inventaire_Librairie\Système_Inventaire_Librairie\obj\Debug\Système_Inventaire_Librairie.csprojAssemblyReference.cache
+F:\Contenus principal\clé nejw\Ma clé USB\Mes projets\Projet du 19 octobre 2017\Système_Inventaire_Librairie\Système_Inventaire_Librairie\obj\Debug\Système_Inventaire_Librairie.csproj.CoreCompileInputs.cache
+F:\Contenus principal\clé nejw\Ma clé USB\Mes projets\Projet du 19 octobre 2017\Système_Inventaire_Librairie\Système_Inventaire_Librairie\obj\Debug\Système_Inventaire_Librairie.csproj.CopyComplete
+F:\Contenus principal\clé nejw\Ma clé USB\Mes projets\Projet du 19 octobre 2017\Système_Inventaire_Librairie\Système_Inventaire_Librairie\obj\Debug\Système_Inventaire_Librairie.exe
+F:\Contenus principal\clé nejw\Ma clé USB\Mes projets\Projet du 19 octobre 2017\Système_Inventaire_Librairie\Système_Inventaire_Librairie\obj\Debug\Système_Inventaire_Librairie.pdb

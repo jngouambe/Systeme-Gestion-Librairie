@@ -1,0 +1,371 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SIL.1.0.0.0.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:SIL.Fakes.ShimFilm">
+            <summary>Shim type of SIL.Film</summary>
+        </member>
+        <member name="M:SIL.Fakes.ShimFilm.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:SIL.Fakes.ShimFilm.#ctor(SIL.Film)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:SIL.Fakes.ShimFilm.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimFilm.AllInstances.DureeGet">
+            <summary>Sets the shim of Film.get_Duree()</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimFilm.AllInstances.DureeSetUInt16">
+            <summary>Sets the shim of Film.set_Duree(UInt16 value)</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimFilm.AllInstances.RealisateurGet">
+            <summary>Sets the shim of Film.get_Realisateur()</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimFilm.AllInstances.RealisateurSetString">
+            <summary>Sets the shim of Film.set_Realisateur(String value)</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimFilm.AllInstances.ToString01">
+            <summary>Sets the shim of Film.ToString()</summary>
+        </member>
+        <member name="M:SIL.Fakes.ShimFilm.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:SIL.Fakes.ShimFilm.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimFilm.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimFilm.Constructor">
+            <summary>Sets the shim of Film.Film()</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimFilm.ConstructorStringStringStringStringByteDoubleUInt16">
+            <summary>Sets the shim of Film.Film(String Isbn, String Titre, String Realisateur, String Type, Byte Quantite, Double Prix, UInt16 Duree)</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimFilm.DureeGet">
+            <summary>Sets the shim of Film.get_Duree()</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimFilm.DureeSetUInt16">
+            <summary>Sets the shim of Film.set_Duree(UInt16 value)</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimFilm.RealisateurGet">
+            <summary>Sets the shim of Film.get_Realisateur()</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimFilm.RealisateurSetString">
+            <summary>Sets the shim of Film.set_Realisateur(String value)</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimFilm.ToString">
+            <summary>Sets the shim of Film.ToString()</summary>
+        </member>
+        <member name="T:SIL.Fakes.ShimItem">
+            <summary>Shim type of SIL.Item</summary>
+        </member>
+        <member name="M:SIL.Fakes.ShimItem.#ctor(SIL.Item)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:SIL.Fakes.ShimItem.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimItem.AllInstances.IsbnGet">
+            <summary>Sets the shim of Item.get_Isbn()</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimItem.AllInstances.IsbnSetString">
+            <summary>Sets the shim of Item.set_Isbn(String value)</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimItem.AllInstances.ModifierPrixDouble">
+            <summary>Sets the shim of Item.ModifierPrix(Double Prix)</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimItem.AllInstances.PrixGet">
+            <summary>Sets the shim of Item.get_Prix()</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimItem.AllInstances.PrixSetString">
+            <summary>Sets the shim of Item.set_Prix(String value)</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimItem.AllInstances.QuantiteGet">
+            <summary>Sets the shim of Item.get_Quantite()</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimItem.AllInstances.QuantiteSetByte">
+            <summary>Sets the shim of Item.set_Quantite(Byte value)</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimItem.AllInstances.TitreGet">
+            <summary>Sets the shim of Item.get_Titre()</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimItem.AllInstances.TitreSetString">
+            <summary>Sets the shim of Item.set_Titre(String value)</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimItem.AllInstances.TypeGet">
+            <summary>Sets the shim of Item.get_Type()</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimItem.AllInstances.TypeSetString">
+            <summary>Sets the shim of Item.set_Type(String value)</summary>
+        </member>
+        <member name="M:SIL.Fakes.ShimItem.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:SIL.Fakes.ShimItem.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimItem.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimItem.Constructor">
+            <summary>Sets the shim of Item.Item()</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimItem.ConstructorStringStringStringByteDouble">
+            <summary>Sets the shim of Item.Item(String Isbn, String Titre, String Type, Byte Quantite, Double Prix)</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimItem.IsbnGet">
+            <summary>Sets the shim of Item.get_Isbn()</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimItem.IsbnSetString">
+            <summary>Sets the shim of Item.set_Isbn(String value)</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimItem.ModifierPrixDouble">
+            <summary>Sets the shim of Item.ModifierPrix(Double Prix)</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimItem.PrixGet">
+            <summary>Sets the shim of Item.get_Prix()</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimItem.PrixSetString">
+            <summary>Sets the shim of Item.set_Prix(String value)</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimItem.QuantiteGet">
+            <summary>Sets the shim of Item.get_Quantite()</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimItem.QuantiteSetByte">
+            <summary>Sets the shim of Item.set_Quantite(Byte value)</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimItem.TitreGet">
+            <summary>Sets the shim of Item.get_Titre()</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimItem.TitreSetString">
+            <summary>Sets the shim of Item.set_Titre(String value)</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimItem.TypeGet">
+            <summary>Sets the shim of Item.get_Type()</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimItem.TypeSetString">
+            <summary>Sets the shim of Item.set_Type(String value)</summary>
+        </member>
+        <member name="T:SIL.Fakes.ShimLivre">
+            <summary>Shim type of SIL.Livre</summary>
+        </member>
+        <member name="M:SIL.Fakes.ShimLivre.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:SIL.Fakes.ShimLivre.#ctor(SIL.Livre)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:SIL.Fakes.ShimLivre.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimLivre.AllInstances.AuteurGet">
+            <summary>Sets the shim of Livre.get_Auteur()</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimLivre.AllInstances.AuteurSetString">
+            <summary>Sets the shim of Livre.set_Auteur(String value)</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimLivre.AllInstances.NbrPagesGet">
+            <summary>Sets the shim of Livre.get_NbrPages()</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimLivre.AllInstances.NbrPagesSetString">
+            <summary>Sets the shim of Livre.set_NbrPages(String value)</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimLivre.AllInstances.ToString01">
+            <summary>Sets the shim of Livre.ToString()</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimLivre.AuteurGet">
+            <summary>Sets the shim of Livre.get_Auteur()</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimLivre.AuteurSetString">
+            <summary>Sets the shim of Livre.set_Auteur(String value)</summary>
+        </member>
+        <member name="M:SIL.Fakes.ShimLivre.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:SIL.Fakes.ShimLivre.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimLivre.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimLivre.Constructor">
+            <summary>Sets the shim of Livre.Livre()</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimLivre.ConstructorStringStringStringStringByteDoubleInt16">
+            <summary>Sets the shim of Livre.Livre(String Isbn, String Titre, String Auteur, String Type, Byte Quantite, Double Prix, Int16 NbrPages)</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimLivre.NbrPagesGet">
+            <summary>Sets the shim of Livre.get_NbrPages()</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimLivre.NbrPagesSetString">
+            <summary>Sets the shim of Livre.set_NbrPages(String value)</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimLivre.ToString">
+            <summary>Sets the shim of Livre.ToString()</summary>
+        </member>
+        <member name="T:SIL.Fakes.ShimMusique">
+            <summary>Shim type of SIL.Musique</summary>
+        </member>
+        <member name="M:SIL.Fakes.ShimMusique.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:SIL.Fakes.ShimMusique.#ctor(SIL.Musique)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:SIL.Fakes.ShimMusique.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimMusique.AllInstances.ArtisteGet">
+            <summary>Sets the shim of Musique.get_Artiste()</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimMusique.AllInstances.ArtisteSetString">
+            <summary>Sets the shim of Musique.set_Artiste(String value)</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimMusique.AllInstances.NbrPiecesGet">
+            <summary>Sets the shim of Musique.get_NbrPieces()</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimMusique.AllInstances.NbrPiecesSetString">
+            <summary>Sets the shim of Musique.set_NbrPieces(String value)</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimMusique.AllInstances.ToString01">
+            <summary>Sets the shim of Musique.ToString()</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimMusique.ArtisteGet">
+            <summary>Sets the shim of Musique.get_Artiste()</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimMusique.ArtisteSetString">
+            <summary>Sets the shim of Musique.set_Artiste(String value)</summary>
+        </member>
+        <member name="M:SIL.Fakes.ShimMusique.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:SIL.Fakes.ShimMusique.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimMusique.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimMusique.Constructor">
+            <summary>Sets the shim of Musique.Musique()</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimMusique.ConstructorStringStringStringStringByteDoubleString">
+            <summary>Sets the shim of Musique.Musique(String Isbn, String Titre, String Artiste, String Type, Byte Quantite, Double Prix, String nbrPieces)</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimMusique.NbrPiecesGet">
+            <summary>Sets the shim of Musique.get_NbrPieces()</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimMusique.NbrPiecesSetString">
+            <summary>Sets the shim of Musique.set_NbrPieces(String value)</summary>
+        </member>
+        <member name="P:SIL.Fakes.ShimMusique.ToString">
+            <summary>Sets the shim of Musique.ToString()</summary>
+        </member>
+        <member name="T:SIL.Fakes.StubFilm">
+            <summary>Stub type of SIL.Film</summary>
+        </member>
+        <member name="M:SIL.Fakes.StubFilm.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:SIL.Fakes.StubFilm.#ctor(System.String,System.String,System.String,System.String,System.Byte,System.Double,System.UInt16)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:SIL.Fakes.StubFilm.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:SIL.Fakes.StubFilm.InitializeStub">
+            <summary>Initializes a new instance of type StubFilm</summary>
+        </member>
+        <member name="P:SIL.Fakes.StubFilm.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:SIL.Fakes.StubFilm.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="M:SIL.Fakes.StubFilm.ToString">
+            <summary>Sets the stub of Film.ToString()</summary>
+        </member>
+        <member name="F:SIL.Fakes.StubFilm.ToString01">
+            <summary>Sets the stub of Film.ToString()</summary>
+        </member>
+        <member name="T:SIL.Fakes.StubItem">
+            <summary>Stub type of SIL.Item</summary>
+        </member>
+        <member name="M:SIL.Fakes.StubItem.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:SIL.Fakes.StubItem.#ctor(System.String,System.String,System.String,System.Byte,System.Double)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:SIL.Fakes.StubItem.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:SIL.Fakes.StubItem.InitializeStub">
+            <summary>Initializes a new instance of type StubItem</summary>
+        </member>
+        <member name="P:SIL.Fakes.StubItem.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:SIL.Fakes.StubItem.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:SIL.Fakes.StubLivre">
+            <summary>Stub type of SIL.Livre</summary>
+        </member>
+        <member name="M:SIL.Fakes.StubLivre.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:SIL.Fakes.StubLivre.#ctor(System.String,System.String,System.String,System.String,System.Byte,System.Double,System.Int16)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:SIL.Fakes.StubLivre.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:SIL.Fakes.StubLivre.InitializeStub">
+            <summary>Initializes a new instance of type StubLivre</summary>
+        </member>
+        <member name="P:SIL.Fakes.StubLivre.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:SIL.Fakes.StubLivre.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="M:SIL.Fakes.StubLivre.ToString">
+            <summary>Sets the stub of Livre.ToString()</summary>
+        </member>
+        <member name="F:SIL.Fakes.StubLivre.ToString01">
+            <summary>Sets the stub of Livre.ToString()</summary>
+        </member>
+        <member name="T:SIL.Fakes.StubMusique">
+            <summary>Stub type of SIL.Musique</summary>
+        </member>
+        <member name="M:SIL.Fakes.StubMusique.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:SIL.Fakes.StubMusique.#ctor(System.String,System.String,System.String,System.String,System.Byte,System.Double,System.String)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:SIL.Fakes.StubMusique.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:SIL.Fakes.StubMusique.InitializeStub">
+            <summary>Initializes a new instance of type StubMusique</summary>
+        </member>
+        <member name="P:SIL.Fakes.StubMusique.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:SIL.Fakes.StubMusique.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="M:SIL.Fakes.StubMusique.ToString">
+            <summary>Sets the stub of Musique.ToString()</summary>
+        </member>
+        <member name="F:SIL.Fakes.StubMusique.ToString01">
+            <summary>Sets the stub of Musique.ToString()</summary>
+        </member>
+    </members>
+</doc>
